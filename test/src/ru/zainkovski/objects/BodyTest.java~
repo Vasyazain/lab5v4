@@ -1,0 +1,10 @@
+package ru.edakin.objects;
+import java.io.*;
+import java.util.*;
+    public class BodyTest {
+	@Test
+         public void testType(){
+			System.out.println("Test type");
+			Body t = new Body(1,1,1,"Body","12","3");
+			assertEquals("Body",t.name);
+		}   }
