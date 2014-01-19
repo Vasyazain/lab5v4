@@ -1,4 +1,4 @@
-package ru.edakin.objects;
+package ru.zainkovski.objects;
 import java.io.*;
 import java.util.*;
 import org.junit.Test;

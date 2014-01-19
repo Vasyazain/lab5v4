@@ -19,7 +19,7 @@ import static org.junit.Assert.*;
 			assertEquals(32.0,t.getArea(),0.01);			
 		}
 	@Test
-	 public void testMethod2(){
+	 public void testMethodsNew(){
 			System.out.println("Тестируем метод getDiag()");
 			Cylinder t = new Cylinder(1,5,2,"Cylinder");
 			assertEquals(7.0,t.getDiag(),0.0001);			
