@@ -1,4 +1,4 @@
-//06.11.2013 01:22:14
+//19.01.2014 17:20:20
 package ru.zainkovski.objects;
 
 import ru.zainkovski.interfaces.Squareable;

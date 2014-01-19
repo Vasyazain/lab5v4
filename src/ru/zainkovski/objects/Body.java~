@@ -1,8 +1,8 @@
 //06.11.2013 01:22:14
-package ru.edakin.objects;
+package ru.zainkovski.objects;
 
-import ru.edakin.interfaces.Squareable;
-import ru.edakin.interfaces.Volumable;
+import ru.zainkovski.interfaces.Squareable;
+import ru.zainkovski.interfaces.Volumable;
 
 public abstract class Body implements Comparable <Body>, Volumable,Squareable {
     public String name="Тело"; 
